@@ -1,0 +1,8 @@
+.vscode/
+__pycache__
+db.sqlite3
+.idea/
+venv/
+/static/
+/home/migrations/
+*.pyc
